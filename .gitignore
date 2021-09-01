@@ -17,3 +17,12 @@ Makefile.in
 
 /doxygen.cfg
 /libmnl.pc
+
+examples/genl/genl-group-events
+examples/kobject/kobject-event
+examples/netfilter/nfct-create-batch
+examples/netfilter/nfct-daemon
+examples/netfilter/nfct-dump
+examples/rtnl/rtnl-addr-dump
+examples/rtnl/rtnl-neigh-dump
+examples/rtnl/rtnl-route-event
